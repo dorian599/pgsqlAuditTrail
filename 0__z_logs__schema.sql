@@ -1,0 +1,1 @@
+CREATE SCHEMA z_logs ;
