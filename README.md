@@ -15,6 +15,8 @@ Execute the *.sql* scipts in order as shown
 | 5__z_logs__function_globallogs.sql | Creates the function **globallogs** |
 | 6__z_logs__trigger_audit_control.sql | Created the trigger **audit_control** |
 | 7__z_logs__grants.sql | Shows example of grant permissions over objets |
+| 8__public__table_cars.sql | Sample table to be audited |
+| 9__public__table_cars__data.sql | Sample data |
 
 ### Schema "z_logs"
 
